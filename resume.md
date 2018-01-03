@@ -29,4 +29,8 @@ Programming languages such as JavaScript (ES6), TypeScript, AJAX, Ruby, C#, and 
 
 6. Experience and working knowledge of MVCs such as Ruby on Rails and MVVM such as with KnockoutJS.
 
+7. Comfortable working in a fast-paced environment, building, learning, and working with cutting-edge technologies.
+
+
+
 
