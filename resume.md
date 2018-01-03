@@ -27,4 +27,6 @@ Programming languages such as JavaScript (ES6), TypeScript, AJAX, Ruby, C#, and 
 
 5. Solid Experience as working with version control systems such as Git.
 
+6. Experience and working knowledge of MVCs such as Ruby on Rails and MVVM such as with KnockoutJS.
+
 
