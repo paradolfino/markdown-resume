@@ -60,4 +60,4 @@ related fields.
 
 **GUI, IDE’s & Tools** : Visual Studio, VSCode, SublimeText, RubyMine
 
-
+__RECENT FUNCTIONAL EXPERIENCE__:
