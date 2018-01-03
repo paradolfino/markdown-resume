@@ -60,6 +60,9 @@ related fields.
 
 **GUI, IDE’s & Tools** : Visual Studio, VSCode, SublimeText, RubyMine
 
+__PROJECTS__:
+
+
 __RECENT FUNCTIONAL EXPERIENCE__:
 
 ####React Fullstack Developer (MERN Stack and Ruby on Rails) - Independent Contracts
