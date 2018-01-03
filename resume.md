@@ -36,6 +36,22 @@ related fields.
 
 ###Skills
 
+**Programming Languages**: JavaScript ES6 & ES7, TypeScript, Ruby, VB.NET, C#.
 
+**Markup Languages** : HTML5, CSS3 with CSS Grid, Flexbox, Animate
+
+**Processors**: : SASS/SCSS, Babel
+
+**Frameworks**: : React.JS (STRONG), Angular 5, Ruby on Rails, Bootstrap
+
+**Libraries**: : jQuery, .NET
+
+**Operating Systems** : Windows XP/Windows Vista/Windows 7/Windows 8/Windows 10.
+**Databases** : MongoDB, Google Firebase, SQL and NoSQL.
+**Middleware** : Mongoose, Passport.JS, BodyParser
+**Unit Testing**: RSpec, Jasmine
+**Application Servers** : Node.JS with Express, Webpack, Websocket, Firebase, Puma
+**Source Controls** : GIT
+**GUI, IDE’s & Tools : Visual Studio, VSCode, SublimeText, RubyMine
 
 
