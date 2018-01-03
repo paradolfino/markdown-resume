@@ -61,3 +61,6 @@ related fields.
 **GUI, IDE’s & Tools** : Visual Studio, VSCode, SublimeText, RubyMine
 
 __RECENT FUNCTIONAL EXPERIENCE__:
+
+####React Fullstack Developer (MERN Stack and Ruby on Rails)
+#####October 2017 to Present
