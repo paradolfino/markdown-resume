@@ -62,5 +62,5 @@ related fields.
 
 __RECENT FUNCTIONAL EXPERIENCE__:
 
-####React Fullstack Developer (MERN Stack and Ruby on Rails)
+####React Fullstack Developer (MERN Stack and Ruby on Rails) - Independent Contracts
 #####October 2017 to Present
