@@ -44,7 +44,7 @@ related fields.
 
 **Frameworks**: React.JS (STRONG), KnockoutJS, Angular 5, Ruby on Rails, Bootstrap
 
-**Libraries**: : jQuery, .NET
+**Libraries**: jQuery, .NET
 
 **Operating Systems** : Windows XP/Windows Vista/Windows 7/Windows 8/Windows 10.
 
