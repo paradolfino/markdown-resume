@@ -24,3 +24,7 @@ current experience as a React.js, Ruby on Rails full stack developer.
 4. Strong experience in design and development of customer/user facing Websites, Web Apps, and Games that function on
 multiple devices and screen sizes with a heavy emphasis on user experience and a Mobile First approach using Object Oriented
 Programming languages such as JavaScript (ES6), TypeScript, AJAX, Ruby, C#, and VB.NET.
+
+5. Solid Experience as working with version control systems such as Git.
+
+
