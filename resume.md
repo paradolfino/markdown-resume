@@ -34,4 +34,8 @@ Programming languages such as JavaScript (ES6), TypeScript, AJAX, Ruby, C#, and 
 8. Good interpersonal, organizational, analytical, communication skills – strong working experience in Customer Service
 related fields.
 
+###Skills
+
+
+
 
