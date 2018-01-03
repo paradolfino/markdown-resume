@@ -20,3 +20,7 @@ with Visual Basic 6, Visual Basic.NET, and later C# starting from as early as 20
 current experience as a React.js, Ruby on Rails full stack developer.
 
 3. Experience working with databases in MongoDB, Google Firebase, and MySQL, SQLite, PostgreSQL
+
+4. Strong experience in design and development of customer/user facing Websites, Web Apps, and Games that function on
+multiple devices and screen sizes with a heavy emphasis on user experience and a Mobile First approach using Object Oriented
+Programming languages such as JavaScript (ES6), TypeScript, AJAX, Ruby, C#, and VB.NET.
