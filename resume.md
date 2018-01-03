@@ -37,32 +37,24 @@ related fields.
 ###Skills
 
 **Programming Languages**: JavaScript ES6 & ES7, TypeScript, Ruby, VB.NET, C#.
-
 **Markup Languages** : HTML5, CSS3 with CSS Grid, Flexbox, Animate
-
 **Processors**: SASS/SCSS, Babel
-
 **Frameworks**: React.JS (STRONG), KnockoutJS, Angular 5, Ruby on Rails, Bootstrap
-
 **Libraries**: jQuery, .NET
-
 **Operating Systems** : Windows XP/Windows Vista/Windows 7/Windows 8/Windows 10.
-
 **Databases** : MongoDB, Google Firebase, SQL and NoSQL.
-
 **Middleware** : Mongoose, Passport.JS, BodyParser
-
 **Unit Testing**: RSpec, Jasmine
-
 **Application Servers** : Node.JS with Express, Webpack, Websocket, Firebase, Puma
-
 **Source Controls** : GIT
-
 **GUI, IDE’s & Tools** : Visual Studio, VSCode, SublimeText, RubyMine
 
 __PROJECTS__:
 
-[GitReaper]:
+[GitReaper](https://github.com/viktharien/gitreaper):  
+<https://github.com/viktharien/gitreaper>
+
+GitReaper is a helper script written in Ruby that takes care of the heavy lifting for interacting with Git. Instead of sparsely timed independent commits, GR watches for changes in the directory and commits changes every 1 sec automatically, to a pool of commits. The pool is given an ID, a text summary of work, and then pushed to a specified branch.
 
 
 
