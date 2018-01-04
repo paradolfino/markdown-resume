@@ -53,8 +53,8 @@ Reaction Factory is a small app enabling quick creation of custom, self-containe
 
 Notes: I'm not working on this app at the moment, but I have plans on expanding some functionality and porting to AWS.
 
-[React Refactors (React, jQuery, SCSS, CSS Grid/Flexbox ))](https://github.com/viktharien/reactionfactory):  
-<https://github.com/viktharien/reactionfactory>
+[React Refactors (React, jQuery, SCSS, CSS Grid/Flexbox ))](https://github.com/viktharien/react-refactor1):  
+<https://github.com/viktharien/react-refactor1>
 
 React Refactor is simple refactoring of standard multi-page websites into SPA (single-page applications) with multi-page functionality. So far have completed one. Mobile friendly.
 
