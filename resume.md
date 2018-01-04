@@ -85,5 +85,30 @@ application with multi-page style behavior.
 components to reduce user scrolling and to promote uniformity of page sizes across multiple devices and screen sizes, without
 sacrifice of any pre-existing content.  
  Used GIT for as a Source Control Tool for maintaining code and Cloud9 with VSCode for development.
+
 Environment: React.js, JavaScript EcmaScript 2015 or ES6, jQuery , Babel, Webpack, SCSS, CSS3 with Grid and Flexbox,
-HTML5, Cloud9 IDE with VSCode.  
+HTML5, Cloud9 IDE with VSCode.
+
+####React Fullstack Developer (React and Firebase) - Independent Contracts
+#####September 2017 to October 2017
+
+Created Firestack Cellar, a fullstack web app capable of storing and displaying information with images about whiskey around
+the world.  
+ Developed using React 15.4, jQuery, Google Firebase server and database, SCSS, utilizing CSS Grid and Flexbox.  
+ Implemented Mobile First approach/design pattern ensuring application would scale to work on the latest devices and all
+screen sizes.  
+ Used GIT for as a Source Control Tool for maintaining code and Cloud9 with VSCode for development.
+
+Environment: React.js, JavaScript EcmaScript 2015 or ES6, jQuery, Google Firebase, Babel, Webpack, SCSS, CSS3 with Grid and
+Flexbox, HTML5, Cloud9 IDE with VSCode. Windows 8.1.
+
+####Junior Front End Developer (Tech Talent South) - Student
+#####August 2017 – December 2017
+
+Designed and Developed several front end web applications and websites utilizing React.js, jQuery, HTML/CSS, Bootstrap.  
+ Designed and utilized RESTful APIs interacting with MongoDB and various NoSQL databases.  
+ Designed and Developed several small desktop applications using Ruby.  
+ Used GIT for as a Source Control Tool for maintaining code and Codepen with Sublime for development.
+
+Environment: React.js, JavaScript EcmaScript 2015 or ES6, jQuery, Node.js, Babel, Webpack, MongoDB with Mongoose, SCSS,
+CSS3 with Grid and Flexbox, HTML5, Codepen IDE with Sublime. Windows 8.1.
