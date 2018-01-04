@@ -88,7 +88,7 @@ sacrifice of any pre-existing content.
 Environment: React.js, JavaScript EcmaScript 2015 or ES6, jQuery , Babel, Webpack, SCSS, CSS3 with Grid and Flexbox,
 HTML5, Cloud9 IDE with VSCode.
 
-####React Fullstack Developer (MERN Stack and Ruby on Rails) - Independent Contracts
+####React Fullstack Developer (React and Firebase) - Independent Contracts
 #####October 2017 to Present
 
 Created Firestack Cellar, a fullstack web app capable of storing and displaying information with images about whiskey around
