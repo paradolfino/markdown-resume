@@ -39,12 +39,19 @@ related fields.
 
 __PROJECTS__:
 
-[GitReaper](https://github.com/viktharien/gitreaper):  
+[GitReaper (Ruby)](https://github.com/viktharien/gitreaper):  
 <https://github.com/viktharien/gitreaper>
 
 GitReaper is a helper script written in Ruby that takes care of the heavy lifting for interacting with Git. Instead of sparsely timed independent commits, GR watches for changes in the directory and commits changes every 1 sec automatically, to a pool of commits. The pool is given an ID, a text summary of work, and then pushed to a specified branch.
 
 Notes: This is my current project - I am working on several features: a slimmed down version, a console that does minimal lifting for you but still helps a bit, and general improvements to the code itself.
+
+[Reaction Factory (React, Node, SCSS/CSS Flexbox)](https://github.com/viktharien/gitreaper):  
+<https://github.com/viktharien/gitreaper>
+
+Reaction Factory is a small app enabling quick creation of custom, self-contained React components. Generates React source code that is downloadable - just dl, wire the component into your app by importing, pass it some props, and you're good to go. See my projects for a link.
+
+Notes: I'm not working on this app at the moment, but I have plans on expanding some functionality and porting to AWS.
 
 __RECENT FUNCTIONAL EXPERIENCE__:
 
