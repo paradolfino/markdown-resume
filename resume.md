@@ -85,6 +85,7 @@ application with multi-page style behavior.
 components to reduce user scrolling and to promote uniformity of page sizes across multiple devices and screen sizes, without
 sacrifice of any pre-existing content.  
  Used GIT for as a Source Control Tool for maintaining code and Cloud9 with VSCode for development.
+
 Environment: React.js, JavaScript EcmaScript 2015 or ES6, jQuery , Babel, Webpack, SCSS, CSS3 with Grid and Flexbox,
 HTML5, Cloud9 IDE with VSCode.
 
