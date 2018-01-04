@@ -67,6 +67,9 @@ Firestack Cellar is a tiny app that demos Google Firebase (NoSQL database) backe
 
 Notes: This was my first "full stack React" app. I don't have any plans on improving it right now.
 
+[Other Projects](https://github.com/viktharien/):  
+<https://github.com/viktharien/>
+
 
 __RECENT FUNCTIONAL EXPERIENCE__:
 
