@@ -65,7 +65,7 @@ Notes: I have some plans of doing more React Refactors using React, Redux, and R
 
 Firestack Cellar is a tiny app that demos Google Firebase (NoSQL database) backend features with a simple React front-end. Has custom pagination. Mobile friendly. See my projects for a link.
 
-Notes: This was my first "full stack React" app.
+Notes: This was my first "full stack React" app. I don't have any plans on improving it right now.
 
 
 __RECENT FUNCTIONAL EXPERIENCE__:
