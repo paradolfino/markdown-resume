@@ -49,9 +49,15 @@ Notes: This is my current project - I am working on several features: a slimmed 
 [Reaction Factory (React, Node, SCSS/CSS Flexbox)](https://github.com/viktharien/reactionfactory):  
 <https://github.com/viktharien/reactionfactory>
 
-Reaction Factory is a small app enabling quick creation of custom, self-contained React components. Generates React source code that is downloadable - just dl, wire the component into your app by importing, pass it some props, and you're good to go. See my projects for a link.
+Reaction Factory is a small app enabling quick creation of custom, self-contained React components. Generates React source code that is downloadable - just dl, wire the component into your app by importing, pass it some props, and you're good to go.
 
 Notes: I'm not working on this app at the moment, but I have plans on expanding some functionality and porting to AWS.
+
+[React Refactors (React, jQuery, SCSS, CSS Grid/Flexbox ))](https://github.com/viktharien/reactionfactory):  
+<https://github.com/viktharien/reactionfactory>
+
+React Refactor is simple refactoring of standard multi-page websites into SPA (single-page applications) with multi-page functionality. So far have completed one. Mobile friendly.
+
 
 __RECENT FUNCTIONAL EXPERIENCE__:
 
