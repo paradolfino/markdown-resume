@@ -1,2 +1,3 @@
 02/01/2018 20:31:pool[lovely-living-hills-362ama]: begin work on Markdown version of resume for LEAP
 02/01/2018 20:32:pool[pretty-flying-rivers-8584y1]: begin work on markdown resume
+03/01/2018 20:11:pool[lovely-rolling-cabins-5o6rii]: continue work on markdown resume - add projects
