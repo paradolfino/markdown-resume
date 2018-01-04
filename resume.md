@@ -100,5 +100,5 @@ screen sizes.
 Environment: React.js, JavaScript EcmaScript 2015 or ES6, jQuery, Google Firebase, Babel, Webpack, SCSS, CSS3 with Grid and
 Flexbox, HTML5, Cloud9 IDE with VSCode. Windows 8.1.
 
-####React Fullstack Developer (React and Firebase) - Independent Contracts
-#####September 2017 to October 2017
+####Junior Front End Developer (Tech Talent South) - Student
+#####August 2017 – Present
