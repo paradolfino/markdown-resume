@@ -97,6 +97,7 @@ the world.
  Implemented Mobile First approach/design pattern ensuring application would scale to work on the latest devices and all
 screen sizes.  
  Used GIT for as a Source Control Tool for maintaining code and Cloud9 with VSCode for development.
+
 Environment: React.js, JavaScript EcmaScript 2015 or ES6, jQuery, Google Firebase, Babel, Webpack, SCSS, CSS3 with Grid and
 Flexbox, HTML5, Cloud9 IDE with VSCode. Windows 8.1.
 
