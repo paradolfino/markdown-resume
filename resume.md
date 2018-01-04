@@ -58,6 +58,8 @@ Notes: I'm not working on this app at the moment, but I have plans on expanding 
 
 React Refactor is simple refactoring of standard multi-page websites into SPA (single-page applications) with multi-page functionality. So far have completed one. Mobile friendly.
 
+Notes: I have some plans of doing more React Refactors using React, Redux, and Rails.
+
 
 __RECENT FUNCTIONAL EXPERIENCE__:
 
