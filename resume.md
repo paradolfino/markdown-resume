@@ -70,6 +70,8 @@ Notes: This was my first "full stack React" app. I don't have any plans on impro
 [Other Projects](https://github.com/viktharien?tab=repositories):  
 <https://github.com/viktharien?tab=repositories>
 
+Some other projects I have created include RemL: a markup language that transforms into React ES6/JSX (incomplete, but will change compilation language from JS to Ruby), and a host of programs made with Ruby, Ruby on Rails, React, KnockoutJS, jQuery, and HTML labeled as "experiments".
+
 
 __RECENT FUNCTIONAL EXPERIENCE__:
 
