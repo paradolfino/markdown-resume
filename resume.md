@@ -56,7 +56,7 @@ __PROJECTS__:
 
 GitReaper is a helper script written in Ruby that takes care of the heavy lifting for interacting with Git. Instead of sparsely timed independent commits, GR watches for changes in the directory and commits changes every 1 sec automatically, to a pool of commits. The pool is given an ID, a text summary of work, and then pushed to a specified branch.
 
-
+Notes: This is my current project - I am working on several features: a slimmed down version, a console that does minimal lifting for you but still helps a bit, and general improvements to the code itself.
 
 __RECENT FUNCTIONAL EXPERIENCE__:
 
