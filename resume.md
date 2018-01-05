@@ -106,7 +106,7 @@ Flexbox, HTML5, Cloud9 IDE with VSCode. Windows 8.1.
 ##### August 2017 – December 2017
 
 Designed and Developed several front end web applications and websites utilizing React.js, jQuery, HTML/CSS, Bootstrap.  
- Designed and utilized RESTful APIs interacting with MongoDB and various NoSQL databases.  
+######  Designed and utilized RESTful APIs interacting with MongoDB and various NoSQL databases.  
  Designed and Developed several small desktop applications using Ruby.  
  Used GIT for as a Source Control Tool for maintaining code and Codepen with Sublime for development.
 
