@@ -73,7 +73,7 @@ Notes: This was my first "full stack React" app. I don't have any plans on impro
 Some other projects I have created include RemL: a markup language that transforms into React ES6/JSX (incomplete, but will change compilation language from JS to Ruby), and a host of programs made with Ruby, Ruby on Rails, React, KnockoutJS, jQuery, and HTML labeled as "experiments".
 
 
-__RECENT FUNCTIONAL EXPERIENCE__:
+*__RECENT FUNCTIONAL EXPERIENCE__*:
 
 #### React Fullstack Developer (MERN Stack and Ruby on Rails) - Independent Contracts
 ###### October 2017 to Present
