@@ -37,7 +37,7 @@ __SKILLS__
 **Source Controls** : GIT  
 **GUI, IDE’s & Tools** : Visual Studio, VSCode, SublimeText, RubyMine  
 
-__PROJECTS__:
+*__PROJECTS__*:
 
 #### [GitReaper (Ruby)](https://github.com/viktharien/gitreaper):  
 <https://github.com/viktharien/gitreaper>
