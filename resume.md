@@ -46,7 +46,7 @@ GitReaper is a helper script written in Ruby that takes care of the heavy liftin
 
 Notes: This is my current project - I am working on several features: a slimmed down version, a console that does minimal lifting for you but still helps a bit, and general improvements to the code itself.
 
-#### [Reaction Factory (React, Node, SCSS/CSS Flexbox)](https://github.com/viktharien/reactionfactory):  
+##### [Reaction Factory (React, Node, SCSS/CSS Flexbox)](https://github.com/viktharien/reactionfactory):  
 <https://github.com/viktharien/reactionfactory>
 
 Reaction Factory is a small app enabling quick creation of custom, self-contained React components. Generates React source code that is downloadable - just dl, wire the component into your app by importing, pass it some props, and you're good to go.
