@@ -80,9 +80,9 @@ __RECENT FUNCTIONAL EXPERIENCE__:
 
 Refactored multi-page, standard website already using HTML, CSS, and JavaScript, into a functional single-page React web
 application with multi-page style behavior.  
-######  Developed using React 15.4, jQuery, and SCSS, utilizing CSS Grid and Flexbox.  
-######  Implemented use of design patterns to overcome multiple challenges such as condensation of website architecture into components to reduce user scrolling and to promote uniformity of page sizes across multiple devices and screen sizes, without sacrifice of any pre-existing content.  
-######  Used GIT for as a Source Control Tool for maintaining code and Cloud9 with VSCode for development.
+#####  Developed using React 15.4, jQuery, and SCSS, utilizing CSS Grid and Flexbox.  
+#####  Implemented use of design patterns to overcome multiple challenges such as condensation of website architecture into components to reduce user scrolling and to promote uniformity of page sizes across multiple devices and screen sizes, without sacrifice of any pre-existing content.  
+#####  Used GIT for as a Source Control Tool for maintaining code and Cloud9 with VSCode for development.
 
 Environment: React.js, JavaScript EcmaScript 2015 or ES6, jQuery , Babel, Webpack, SCSS, CSS3 with Grid and Flexbox,
 HTML5, Cloud9 IDE with VSCode.
@@ -92,10 +92,10 @@ HTML5, Cloud9 IDE with VSCode.
 
 Created Firestack Cellar, a fullstack web app capable of storing and displaying information with images about whiskey around
 the world.  
-######  Developed using React 15.4, jQuery, Google Firebase server and database, SCSS, utilizing CSS Grid and Flexbox.  
-######  Implemented Mobile First approach/design pattern ensuring application would scale to work on the latest devices and all
+#####  Developed using React 15.4, jQuery, Google Firebase server and database, SCSS, utilizing CSS Grid and Flexbox.  
+#####  Implemented Mobile First approach/design pattern ensuring application would scale to work on the latest devices and all
 screen sizes.  
-######  Used GIT for as a Source Control Tool for maintaining code and Cloud9 with VSCode for development.
+#####  Used GIT for as a Source Control Tool for maintaining code and Cloud9 with VSCode for development.
 
 Environment: React.js, JavaScript EcmaScript 2015 or ES6, jQuery, Google Firebase, Babel, Webpack, SCSS, CSS3 with Grid and
 Flexbox, HTML5, Cloud9 IDE with VSCode. Windows 8.1.
