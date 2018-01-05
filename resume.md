@@ -5,7 +5,7 @@ E-mail: <viktharien@zoho.com>
 GitHub: <https://www.github.com/viktharien>  
 Portfolio: <http://www,viktharienvolander.com>  
 
-__SUMMARY__
+*__SUMMARY__*:
 
 *. A junior developer with over 2 years of experience creating and deploying Web Applications using multiple front end and
 back end JavaScript technologies.  
