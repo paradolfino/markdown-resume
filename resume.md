@@ -22,7 +22,7 @@ Programming languages such as JavaScript (ES6), TypeScript, AJAX, Ruby, C#, and 
 *. Good interpersonal, organizational, analytical, communication skills – strong working experience in Customer Service
 related fields.
 
-###Skills
+__Skills__
 
 **Programming Languages**: JavaScript ES6 & ES7, TypeScript, Ruby, VB.NET, C#.  
 **Markup Languages** : HTML5, CSS3 with CSS Grid, Flexbox, Animate  
