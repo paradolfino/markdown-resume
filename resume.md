@@ -53,14 +53,14 @@ Reaction Factory is a small app enabling quick creation of custom, self-containe
 
 Notes: I'm not working on this app at the moment, but I have plans on expanding some functionality and porting to AWS.
 
-#### [React Refactors (React, jQuery, SCSS, CSS Grid/Flexbox ))](https://github.com/viktharien/react-refactor1):  
+##### [React Refactors (React, jQuery, SCSS, CSS Grid/Flexbox ))](https://github.com/viktharien/react-refactor1):  
 <https://github.com/viktharien/react-refactor1>
 
 React Refactor is simple refactoring of standard multi-page websites into SPA (single-page applications) with multi-page functionality. So far have completed one. Mobile friendly.
 
 Notes: I have some plans of doing more React Refactors using React, Redux, and Rails.
 
-#### [Firestack Cellar (React, Google Firebase, jQuery, SCSS, CSS Grid/Flexbox)](https://github.com/viktharien/firestack-cellar):  
+##### [Firestack Cellar (React, Google Firebase, jQuery, SCSS, CSS Grid/Flexbox)](https://github.com/viktharien/firestack-cellar):  
 <https://github.com/viktharien/firestack-cellar>
 
 Firestack Cellar is a tiny app that demos Google Firebase (NoSQL database) backend features with a simple React front-end. Has custom pagination. Mobile friendly. See my projects for a link.
