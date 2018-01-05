@@ -80,7 +80,7 @@ __RECENT FUNCTIONAL EXPERIENCE__:
 
 Refactored multi-page, standard website already using HTML, CSS, and JavaScript, into a functional single-page React web
 application with multi-page style behavior.  
- Developed using React 15.4, jQuery, and SCSS, utilizing CSS Grid and Flexbox.  
+######  Developed using React 15.4, jQuery, and SCSS, utilizing CSS Grid and Flexbox.  
  Implemented use of design patterns to overcome multiple challenges such as condensation of website architecture into
 components to reduce user scrolling and to promote uniformity of page sizes across multiple devices and screen sizes, without
 sacrifice of any pre-existing content.  
