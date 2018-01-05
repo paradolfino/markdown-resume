@@ -7,7 +7,20 @@ Portfolio: <http://www,viktharienvolander.com>
 
 ###Summary
 
-
+*. A junior developer with over 2 years of experience creating and deploying Web Applications using multiple front end and
+back end JavaScript technologies.  
+*. Strong grasp of programming fundamentals with original exposure and first experiences developing Desktop Applications
+with Visual Basic 6, Visual Basic.NET, and later C# starting from as early as 2004. Moved into JavaScript in 2015 and into a
+current experience as a React.js, Ruby on Rails full stack developer.  
+*. Experience working with databases in MongoDB, Google Firebase, and MySQL, SQLite, PostgreSQL  
+*. Strong experience in design and development of customer/user facing Websites, Web Apps, and Games that function on
+multiple devices and screen sizes with a heavy emphasis on user experience and a Mobile First approach using Object Oriented
+Programming languages such as JavaScript (ES6), TypeScript, AJAX, Ruby, C#, and VB.NET.  
+*. Solid Experience as working with version control systems such as Git.  
+*. Experience and working knowledge of MVCs such as Ruby on Rails and MVVM such as with KnockoutJS.  
+*. Comfortable working in a fast-paced environment, building, learning, and working with cutting-edge technologies.  
+*. Good interpersonal, organizational, analytical, communication skills – strong working experience in Customer Service
+related fields.
 
 ###Skills
 
