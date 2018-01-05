@@ -76,7 +76,7 @@ Some other projects I have created include RemL: a markup language that transfor
 __RECENT FUNCTIONAL EXPERIENCE__:
 
 #### React Fullstack Developer (MERN Stack and Ruby on Rails) - Independent Contracts
-##### October 2017 to Present
+###### October 2017 to Present
 
 Refactored multi-page, standard website already using HTML, CSS, and JavaScript, into a functional single-page React web
 application with multi-page style behavior.  
