@@ -39,8 +39,7 @@ related fields.
 
 *__PROJECTS__*:
 
-##### [GitReaper (Ruby)](https://github.com/viktharien/gitreaper):  
-<https://github.com/viktharien/gitreaper>
+##### [GitReaper (Ruby)](https://github.com/viktharien/gitreaper):  <https://github.com/viktharien/gitreaper>
 
 GitReaper is a helper script written in Ruby that takes care of the heavy lifting for interacting with Git. Instead of sparsely timed independent commits, GR watches for changes in the directory and commits changes every 1 sec automatically, to a pool of commits. The pool is given an ID, a text summary of work, and then pushed to a specified branch.
 
