@@ -88,7 +88,7 @@ Environment: React.js, JavaScript EcmaScript 2015 or ES6, jQuery , Babel, Webpac
 HTML5, Cloud9 IDE with VSCode.
 
 #### React Fullstack Developer (React and Firebase) - Independent Contracts
-##### September 2017 to October 2017
+###### September 2017 to October 2017
 
 Created Firestack Cellar, a fullstack web app capable of storing and displaying information with images about whiskey around
 the world.  
