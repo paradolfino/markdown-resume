@@ -101,7 +101,7 @@ Environment: React.js, JavaScript EcmaScript 2015 or ES6, jQuery, Google Firebas
 Flexbox, HTML5, Cloud9 IDE with VSCode. Windows 8.1.
 
 #### Junior Front End Developer (Tech Talent South) - Student
-##### August 2017 – December 2017
+###### August 2017 – December 2017
 
 Designed and Developed several front end web applications and websites utilizing React.js, jQuery, HTML/CSS, Bootstrap.  
 #####  Designed and utilized RESTful APIs interacting with MongoDB and various NoSQL databases.  
