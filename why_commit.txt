@@ -2,3 +2,4 @@
 02/01/2018 20:32:pool[pretty-flying-rivers-8584y1]: begin work on markdown resume
 03/01/2018 20:11:pool[lovely-rolling-cabins-5o6rii]: continue work on markdown resume - add projects
 03/01/2018 20:17:pool[pretty-baking-cows-80y7fo]: continue work on markdown resume - add functional experience
+04/01/2018 20:13:pool[happy-shining-villages-l16e2w]: finish markdown resume
